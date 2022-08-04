@@ -1,4 +1,4 @@
-### Hi there 👋
+ ![header](https://user-images.githubusercontent.com/44139731/182773589-e5bf1c91-236d-44ce-9f43-38732de8b140.png)
 
 <!--
 **Atharva1998/Atharva1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-/header.png
+
